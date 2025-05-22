@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pymongo[srv]
+python-multipart
+tqdm
+pytesseract
+Pillow
+pdf2image
+pypdf
+langchain
+google-generativeai
+chromadb
+unstructured
+python-dotenv
